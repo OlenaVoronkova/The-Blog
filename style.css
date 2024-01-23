@@ -27,7 +27,7 @@
         }
 
         .header {
-            background: url(4.jpg);
+            background: url(./img/4.jpg);
             padding: 2em;
             display: flex;
             justify-content: space-between;
@@ -65,7 +65,7 @@
         }
 
         .aside {
-            background-image: url(1.jpg);
+            background-image: url(./img/1.jpg);
             width: 190px;
             text-align: center;
             height: 400px;
